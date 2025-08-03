@@ -6,4 +6,4 @@ matplotlib==3.9.0
 shap==0.45.0
 xgboost==2.0.3
 optuna==3.6.1
-scipy==1.13.0
+scipy
